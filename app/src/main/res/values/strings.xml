@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SplashScreen_28</string>
+    <string name="todo">TODO</string>
+    <string name="smktelkom">SMK Telkom Purwokerto</string>
+    <string name="nama">Nama : Nur Endra Purwa Maulana Jati</string>
+    <string name="kelas">Kelas : XI RPL 2</string>
+    <string name="taun">2019</string>
+    <string name="absen">No : 28</string>
+</resources>
